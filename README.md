@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Always+In+Learning+Mode&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am currently working as Full Stack Developer. I have used React, Next.js, GatsbyJS, Angular, Strapi, Node, Express, PHP and Laravel to develop several applications and scalable backends. I am continuously improving my skills and applying top standards in development..</h4>
+<h4 align="center">I am currently working as Full Stack Developer. I have used React, Next.js, GatsbyJS, Angular, Nest.js, Strapi, Node, Express, Koa, PHP, Laravel and Symphony etc. to develop several applications and scalable backends. I also have worked with development and integrations of enterprise solutions like Shopify, Salesforce, Zoho, Xero, Katana and Revel etc. I am continuously improving my skills and applying top standards in development.</h4>
 <br>
 
 ## 🛠️ My Skills
